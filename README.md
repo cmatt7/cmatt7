@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @cmatt7
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning js and php
-- 💞️ I’m looking to collaborate on projects that i'm able to
+- 🌱 I’m currently learning the all-around things that a Full-Stack need to know 
+- 💞️ I’m looking to collaborate on projects that i'm able to, so i can learn in the best way possible
 - 📫 How to reach me 
 discord: fantast1c#2919
-twitter: @crmatt7
 instagram: @c.matt7
+Hit me up anytime! =)
 
 <!---
 cmatt7/cmatt7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
