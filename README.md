@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cmatt7
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning the all-around things that a Full-Stack need to know 
+- 🌱 I'm a Front-End Developer
 - 💞️ I’m looking to collaborate on projects that i'm able to, so i can learn in the best way possible
 - 📫 How to reach me 
 discord: fantast1c#2919
