@@ -1,5 +1,5 @@
 <div>
-  <h2>Hello, I'm Matt! I work as a Full-Stack Developer at InovaNex.</h2>
+  <h2>Hello, I'm Matt! Check my portfolio: cmatt.dev</h2>
 </div>
 
 <div align="center">
