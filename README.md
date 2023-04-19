@@ -10,11 +10,11 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=codeSTACKr&locale=en&hide_border=true&username=cmatt7" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&username=cmatt7" height="180" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false&custom_title=Languages&username=cmatt7" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=midnight-purple&hide_border=false&custom_title=Languages&username=cmatt7" height="180" alt="languages graph"  />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmatt7&theme=elegant" height="150" alt="stats graph"/>
+  <img src="https://streak-stats.demolab.com?user=cmatt7&theme=midnight-purple&exclude_days=Sun%2CSat" height="180" alt="stats streak graph"/>
 </div>
 
 ###
