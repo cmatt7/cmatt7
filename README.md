@@ -18,7 +18,7 @@
 </div>
 
 ###
-<h3 align="left">Languages & Tools</h3>
+<h3 align="center">Languages & Tools</h3>
 
 ###
 <div align="center">  
@@ -43,7 +43,7 @@
 </div>
 
 ###
-<h3 align="left">Contact me</h3>
+<h3 align="center">Contact me</h3>
 
 ###
 <div align="center">
