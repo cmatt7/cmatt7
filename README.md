@@ -1,4 +1,4 @@
 Hi, I'm Matt!
 
-Solutions Architect at Tecnocomp.
-Bring business value to your data with technology!
+DevOps, DevSecOps and Solutions Architect.
+Creativity, design implementation and much more!
