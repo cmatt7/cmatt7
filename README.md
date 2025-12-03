@@ -1,4 +1,5 @@
 Hi, I'm Matt!
 
-DevOps, DevSecOps and Solutions Architect.
-Creativity, design implementation and much more!
+Software Engineer, studying Java, Spring Boot and AppSec.
+
+Having fun as always. :)
